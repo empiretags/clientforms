@@ -1,0 +1,5 @@
+streamlit
+pypdf
+requests
+cryptography>=3.1
+Pillow
